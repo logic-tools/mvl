@@ -1,5 +1,5 @@
-# MVL - Many-Valued Logic
+﻿# MVL - Formalization of Many-Valued Logics
 
-*More to come...*
+*Anders Schlichtkrull & Jørgen Villadsen*
 
 Please provide feedback to Associate Professor Jørgen Villadsen, DTU Compute, Denmark: http://people.compute.dtu.dk/jovi/
