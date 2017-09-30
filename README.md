@@ -1,4 +1,4 @@
-﻿# MVL - Formalization of Many-Valued Logics
+# MVL - Formalization of Many-Valued Logics
 
 *Anders Schlichtkrull & Jørgen Villadsen*
 
